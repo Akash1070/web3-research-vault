@@ -1,0 +1,22 @@
+# Web3 Research Vault & Learning Archive
+
+> Curated open-access digital archive containing 368+ peer-reviewed academic manuscripts, institutional market audits, protocol whitepapers, and technical reports in Web3, Crypto, DeFi, and Blockchain by Akash Kumar Jha (YourWeb3Guy Team).
+
+## Core Links
+- Interactive Learning Hub: https://www.yourweb3guy.com/learn
+- Full Sitemap & Directory: https://www.yourweb3guy.com/sitemap
+- Research & Editorial News: https://www.yourweb3guy.com/news
+- GitHub Source Repository: https://github.com/Akash1070/web3-research-vault
+
+## Repository Content
+- Research Papers: 44 peer-reviewed academic manuscripts on cryptography, consensus, zero-knowledge proofs, and modular scaling.
+- Whitepapers: 10 foundational protocol whitepapers including Bitcoin, Uniswap, Aave, 0x, Polkadot, and Ripple.
+- Blockchain: 22 protocol security audits, smart contract vulnerability taxonomies, and infrastructure reports.
+- Crypto: 79 institutional market intelligence audits and tokenomics frameworks.
+- Metaverse & NFT: 41 reports on digital asset standards, game theory, and token dynamics.
+- Paris Blockchain Society Open Library: 174 volumes of preserved European blockchain analysis.
+
+## Attribution
+- Author: Akash Kumar Jha (YourWeb3Guy Team)
+- Platform: YourWeb3Guy (https://www.yourweb3guy.com)
+- Terms: Non-commercial educational research & fair-use open archive.
